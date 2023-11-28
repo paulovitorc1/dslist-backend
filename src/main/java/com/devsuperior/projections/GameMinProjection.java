@@ -1,4 +1,4 @@
-package com.devsuperior.porjections;
+package com.devsuperior.projections;
 
 public interface GameMinProjection {
 
@@ -6,7 +6,7 @@ public interface GameMinProjection {
 
 	String getTitle();
 
-	Integer getYear();
+	Integer getGameYear();
 
 	String getImgUrl();
 

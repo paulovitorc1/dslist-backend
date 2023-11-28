@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.devsuperior.dto.GameDTO;
 import com.devsuperior.dto.GameMinDTO;
 import com.devsuperior.entities.Game;
-import com.devsuperior.porjections.GameMinProjection;
+import com.devsuperior.projections.GameMinProjection;
 import com.devsuperior.repositories.GameRepository;
 
 import org.springframework.transaction.annotation.Transactional;
